@@ -1,0 +1,7 @@
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\bin\Debug\tema12_praktikum3.exe.config
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\bin\Debug\tema12_praktikum3.exe
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\bin\Debug\tema12_praktikum3.pdb
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\obj\Debug\tema12_praktikum3.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\obj\Debug\tema12_praktikum3.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\obj\Debug\tema12_praktikum3.exe
+C:\Users\alexa\Desktop\все\Кодинг\Мои проекты на C#\tema12_praktikum3\obj\Debug\tema12_praktikum3.pdb
